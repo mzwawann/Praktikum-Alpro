@@ -1,0 +1,26 @@
+Nama: Kurniawan Firdaus
+NIM: 71251186
+Program studi: Informatika
+Universitas: Universitas Kristen Duta Wacana
+
+Semester 1
+
+---------------------------------
+Kartu Rencana Studi (KRS) 
+---------------------------------
+1. Logika Matematika
+   Jadwal : Senin, 11.30-14.20
+   Ruang  : H.2.4
+
+2. Teknologi Komputer
+   Jadwal : Selasa, 10.30-13.20
+   Ruang  : D.3.6
+
+3. Bahasa Indonesia
+   Jadwal : Selasa, 07.30-10.20
+   Ruang  : D.3.3
+
+4. Praktikum Teknologi Komputer
+   Jadwal : Selasa, 13.30-16.20
+   Ruang  : LAB A
+---------------------------------
