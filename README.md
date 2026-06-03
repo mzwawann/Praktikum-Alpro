@@ -1,4 +1,4 @@
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td>
       <img src="https://ukdw.ac.id/wp-content/uploads/2023/07/xLOGO-UKDW-WARNA-TEXT-W-PNG.png.pagespeed.ic.89qm71UoKT.webp" width="360">
